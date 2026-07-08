@@ -1,1 +1,1 @@
-http://rmzram18.xyz:8000/get.php?username=Enes.9461&password=Nes.9461&type=m3u_plus&output=ts&type=m3u_plus&output=ts
+
