@@ -38,7 +38,6 @@ http://ctn34.xyz:8080/get.php?username=bdh3410chch&password=bb0806yy00&type=m3u_
 http://ctn34.xyz:8080/get.php?username=mmt7757chz2&password=mmt0602yy00&type=m3u_plus&output=ts&type=m3u_plus&output=ts
 http://ctn34.xyz:8080/get.php?username=yasar7062&password=yasar.7062&type=m3u_plus&output=ts&type=m3u_plus&output=ts
 http://ctn34.xyz:8080/get.php?username=rkn5584&password=rkn0506gg00&type=m3u_plus&output=ts&type=m3u_plus&output=ts
-http://ctn34.xyz:8080/get.php?username=haukekdr&password=e7SwqQM&type=m3u_plus&output=ts&type=m3u_plus&output=ts
 http://ctn34.xyz:8080/get.php?username=plt3061pkt1&password=plt0107cc00&type=m3u_plus&output=ts&type=m3u_plus&output=ts
 http://ctn34.xyz:8080/get.php?username=ilyas65&password=njggjug&type=m3u_plus&output=ts&type=m3u_plus&output=ts
 http://ctn34.xyz:8080/get.php?username=mmrr7589&password=mmrr0202yy00&type=m3u_plus&output=ts&type=m3u_plus&output=ts
