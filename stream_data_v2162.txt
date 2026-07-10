@@ -1,11 +1,3 @@
-http://vipwatchme.xyz:2095/get.php?username=Srkn2868&password=Srkn0402yy00&output=ts&type=m3u
-http://vipwatchme.xyz:2095/get.php?username=aaby2219cep&password=aabb2703gg00&type=m3u
-http://vipwatchme.xyz:2095/get.php?username=bdr2862&password=22012025bdh&type=m3u
-http://vipwatchme.xyz:2095/get.php?username=brcn3507tv&password=br1206dd00&type=m3u
-http://vipwatchme.xyz:2095/get.php?username=brs5817&password=dCPedXFZSP&type=m3u
-http://vipwatchme.xyz:2095/get.php?username=cankan3&password=949eb1bbc39af27e&type=m3u
-http://vipwatchme.xyz:2095/get.php?username=casamia0606&password=cs2008gg00&type=m3u
-http://vipwatchme.xyz:2095/get.php?username=cm7382tv&password=cmm1906yy00&type=m3u
 http://tekno072.xyz:2095/get.php?username=duran3555&password=duran.3555&type=m3u
 http://tekno072.xyz:2095/get.php?username=emre4211&password=emre.4211&type=m3u
 http://tekno072.xyz:2095/get.php?username=enos34&password=2UrMa8MXU7&type=m3u
