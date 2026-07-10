@@ -1,3 +1,10 @@
+http://tekno072.xyz:2095/get.php?username=duran3555&password=duran.3555&type=m3u
+http://tekno072.xyz:2095/get.php?username=emre4211&password=emre.4211&type=m3u
+http://tekno072.xyz:2095/get.php?username=enos34&password=2UrMa8MXU7&type=m3u
+http://tekno072.xyz:2095/get.php?username=fth7824chz&password=fth1909dd00&type=m3u
+http://tekno072.xyz:2095/get.php?username=fttt5755&password=ftt2012yy00&type=m3u
+http://tekno072.xyz:2095/get.php?username=gnc1223cep2&password=gnc0208yy00&type=m3u
+http://tekno072.xyz:2095/get.php?username=gndz8646&password=gndz2608dd00&type=m3u
 http://ctn34.xyz:8080/get.php?username=brhm5775&password=brhm2410gg00&type=m3u_plus&output=ts&type=m3u_plus&output=ts
 http://ctn34.xyz:8080/get.php?username=Enes.9461&password=Nes.9461&type=m3u_plus&output=ts&type=m3u_plus&output=ts
 http://ctn34.xyz:8080/get.php?username=bosnak2327&password=bosnak.2327&type=m3u_plus&output=ts&type=m3u_plus&output=ts
