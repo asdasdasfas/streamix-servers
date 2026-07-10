@@ -1,17 +1,3 @@
-http://4kxtream.org:8080/get.php?username=GUZEL2025&password=eb12mKpbhZ&type=m3u_plus&output=ts
-http://4kxtream.org:8080/get.php?username=H5ZPytPr6SCX&password=9YEjT9L37ygb&type=m3u_plus&output=ts
-http://4kxtream.org:8080/get.php?username=Halil.2901&password=Unal.2901&type=m3u_plus&output=ts
-http://4kxtream.org:8080/get.php?username=Ihsnd&password=aGfMkBh82F&type=m3u_plus&output=ts
-http://4kxtream.org:8080/get.php?username=Jannkusch&password=tWnvF4xpGey2&type=m3u
-http://4kxtream.org:8080/get.php?username=Jannkusch&password=tWnvF4xpGey2&type=m3u_plus&output=ts
-http://4kxtream.org:8080/get.php?username=Japon5335&password=7823AYTHRB&type=m3u_plus&output=ts
-http://vipwatchme.xyz:2095/get.php?username=Srkn2868&password=Srkn0402yy00&type=m3u_plus&output=ts
-http://vipwatchme.xyz:2095/get.php?username=aaby2219cep&password=aabb2703gg00&type=m3u_plus&output=ts
-http://vipwatchme.xyz:2095/get.php?username=bdr2862&password=22012025bdh&type=m3u_plus&output=ts
-http://vipwatchme.xyz:2095/get.php?username=brs5817&password=dCPedXFZSP&type=m3u_plus&output=ts
-http://vipwatchme.xyz:2095/get.php?username=cankan3&password=949eb1bbc39af27e&type=m3u_plus&output=ts
-http://vipwatchme.xyz:2095/get.php?username=casamia0606&password=cs2008gg00&type=m3u_plus&output=ts
-http://vipwatchme.xyz:2095/get.php?username=cm7382tv&password=cmm1906yy00&type=m3u_plus&output=ts
 http://ctn34.xyz:8080/get.php?username=brhm5775&password=brhm2410gg00&type=m3u_plus&output=ts&type=m3u_plus&output=ts
 http://ctn34.xyz:8080/get.php?username=Enes.9461&password=Nes.9461&type=m3u_plus&output=ts&type=m3u_plus&output=ts
 http://ctn34.xyz:8080/get.php?username=bosnak2327&password=bosnak.2327&type=m3u_plus&output=ts&type=m3u_plus&output=ts
