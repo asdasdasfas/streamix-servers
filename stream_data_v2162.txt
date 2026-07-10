@@ -1,5 +1,3 @@
-http://4kstable.xyz:8080/get.php?username=Bashkimbesartonkel&password=dYwZfJ8aHWYSn&type=m3u
-http://4rtex.com:8080/get.php?username=Bashkimbesartonkel&password=dYwZfJ8aHWYSn&type=m3u
 http://vipwatchme.xyz:2095/get.php?username=Srkn2868&password=Srkn0402yy00&output=ts&type=m3u
 http://vipwatchme.xyz:2095/get.php?username=aaby2219cep&password=aabb2703gg00&type=m3u
 http://vipwatchme.xyz:2095/get.php?username=bdr2862&password=22012025bdh&type=m3u
