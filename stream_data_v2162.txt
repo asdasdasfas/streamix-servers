@@ -1239,3 +1239,6 @@ http://vip-flying.xyz:2095/get.php?username=MohrPatrik58&password=qq1rk3GA58&typ
 http://vip-flying.xyz:2095/get.php?username=Mrt8939&password=Rt8939&type=m3u
 http://vip-flying.xyz:2095/get.php?username=Mstfsn&password=fg3etf8gpj&type=m3u
 http://vip-flying.xyz:2095/get.php?username=Muhame&password=bQSEJxkFuS&type=m3u
+http://vip-flying.xyz:2095/get.php?username=Oguz5834&password=nwSj8EjtqX&type=m3u
+http://vip-flying.xyz:2095/get.php?username=Ozcan.e&password=ebu4x1NMzU&type=m3u
+http://vip-flying.xyz:2095/get.php?username=Ozcan.ert&password=tFUG71XsSS&type=m3u
